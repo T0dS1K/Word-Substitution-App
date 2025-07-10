@@ -1,0 +1,610 @@
+<abandon> {abdicate desert leave resign abjure discontinue quit forego recant retract forsake relinquish cede forswear vacate repudiate}
+<abase> {depress dishonor lower discredit humble reduce debase disgrace humiliate sink degrade}
+<abash> {bewilder daunt embarrass mortify discompose overawe confound disconcert shame confuse dishearten}
+<abate> {decline ebb mitigate decrease lessen moderate subside diminish}
+<abbreviation> {contraction}
+<abet> {advocate countenance incite sanction aid embolden instigate assist encourage uphold}
+<abhor> {abominate dislike loathe scorn despise hate nauseate shun detest}
+<abide> {dwell remain stop await reside tarry bear expect tolerate bide inhabit sojourn wait confront live stay watch continue lodge}
+<abolish> {eradicate abrogate remove annihilate extirpate repeal supplant annul nullify reverse suppress destroy obliterate revoke terminate overthrow}
+<abomination> {abhorrence curse plague detestation horror annoyance disgust iniquity villainy aversion evil nuisance wickedness crime execration offense}
+<abridgment> {compend epitome summary compendium outline synopsis analysis digest}
+<absolute> {arbitrary compulsory haughty peremptory arrogant controlling imperative positive authoritative despotic imperious supreme autocratic dictatorial irresponsible tyrannical coercive lordly unconditional commanding domineering overbearing unequivocal compulsive exacting}
+<absolve> {acquit exculpate forgive exempt free release discharge exonerate liberate}
+<absorb> {consume engross exhaust swallow imbibe}
+<abstinence> {abstemiousness self-denial sobriety continence moderation self-restraint temperance fasting self-control}
+<abstract> {appropriate distract purloin steal detach divert discriminate eliminate separate withdraw distinguish}
+<abstracted> {absent heedless listless preoccupied absent-minded inattentive negligent thoughtless absorbed indifferent oblivious}
+<absurd> {anomalous ill-considered ludicrous ridiculous chimerical ill-judged mistaken senseless erroneous inconclusive monstrous stupid false incorrect nonsensical unreasonable foolish infatuated paradoxical ill-advised irrational preposterous wild}
+<abuse> {aggrieve ruin damage upon persecute defame injure pervert victimize malign prostitute vilify maltreat violate harm misemploy ravish vituperate ill-treat misuse reproach ill-use molest revile wrong}
+<accessory> {companion henchman accomplice attendant confederate participator ally coadjutor follower partner assistant colleague helper retainer}
+<accident> {adventure contingency happening calamity disaster mishap casualty fortuity incident chance hap misadventure possibility}
+<acquaintance> {experience fellowship intimacy companionship familiarity}
+<acrimony> {acerbity harshness severity tartness asperity malignity sharpness unkindness bitterness moroseness sourness virulence causticity}
+<act> {accomplishment execution movement achievement action exertion performance consummation exploit proceeding deed feat doing effect}
+<active> {agile energetic officious sprightly expeditious prompt spry brisk quick supple bustling lively ready vigorous busy mobile restless diligent}
+<acumen> {acuteness insight perspicacity cleverness keenness discernmentpenetration sagacity shrewdness}
+<add> {adjoin annex augment extend affix append increase subjoin attach enlarge}
+<addicted> {abandoned devoted inclined accustomed disposed prone attached given habituated wedded}
+<address> {cost approach hail apostrophize court salute woo appeal greet adroitness discretion manners readiness courtesy ingenuity politeness tact}
+<adequate> {able competent fitted satisfactory adapted equal fitting sufficient capable commensurate fit qualified suitable}
+<adherent> {disciple aider backer partisan supporter}
+<adhesive> {cohesive gummy sticky glutinous sticking viscid viscous}
+<adjacent> {abutting bordering contiguous neighboring adjoining close coterminous next conterminous near nigh beside}
+<admire> {adore extol respect applaud enjoy honor revere wonder approve}
+<adorn> {beautify decorate garnish illustrate bedeck embellish gild ornament deck}
+<affront> {aggravate exasperate offend vex annoy insult provoke displease irritate tease wound}
+<agent> {actor factor means operator doer instrument mover performer promoter}
+<agree> {accede admit coincide concur accept combine consent accord acquiesce assent comply harmonize}
+<agriculture> {cultivation gardening kitchen-gardening culture horticulture market-gardening farming floriculture husbandry tillage}
+<aim> {aspiration intention goal mark determination inclination object intent purpose tendency}
+<air> {appearance demeanor manner sort bearing expression mien style fashion port carriage}
+<airy> {aerial ethereal frolicsome joyous animated fairylike gay}
+<alarm> {affright disquietude fright solicitude apprehension dread misgiving terror consternation panic timidity dismay}
+<alert> {prepared watchful hustling wide-awake}
+<alien> {conflicting distant inappropriate strange contradictory foreign irrelevant unconnected contrary hostile opposed unlike contrasted impertinent remote foreigner stranger}
+<alike> {akin equivalent kindred same analogous homogeneous like similar identical resembling uniform}
+<alive> {breathing subsisting animate existent living vivacious existing}
+<allay> {compose quiet still appease mollify soothe tranquilize pacify}
+<allege> {adduce asseverate claim maintain produce advance assign declare offer say affirm aver introduce assert cite}
+<allegiance> {devotion fealty faithfulness homage loyalty obedience subjection}
+<allegory> {fable illustration metaphor parable simile}
+<alleviate> {lighten assuage relieve soften}
+<alliance> {coalition confederation fusion partnership compact confederacy federation league}
+<allot> {appoint destine distribute grant select divide award}
+<allow> {let concede permit suffer yield}
+<alloy> {admixture adulteration debasement deterioration}
+<allude> {advert indicate intimate point signify hint insinuate mention refer suggest imply}
+<allure> {attract captivate decoy entice lure tempt cajole coax inveigle seduce win}
+<also> {likewise too similarly withal besides}
+<alternative> {choice election option pick preference resource}
+<amass> {accumulate collect aggregate gather hoard}
+<amateur> {connoisseur critic dilettante novice tyro}
+<amazement> {admiration awe confusion surprise astonishment bewilderment}
+<ambition> {competition emulation opposition rivalry}
+<amend> {correct meliorate rectify ameliorate emend mend reform better improve repair purify}
+<amiable> {agreeable engaging lovable pleasing attractive gentle lovely sweet benignant good-natured loving winning harming kind winsome}
+<amid> {amidst amongst betwixt among between}
+<amplify> {dilate expand unfold develop expatiate widen}
+<analogy> {affinity likeness relation similarity coincidence parity resemblance comparison proportion semblance similitude}
+<anger> {animosity fury rage choler impatience passion resentment displeasure indignation peevishness temper exasperation ire pettishness vexation fretfulness irritation petulance wrath}
+<animal> {beastfauna sentient being}
+<announce> {advertise proclaim reveal circulate promulgate communicate herald propound publish enunciate notify tell}
+<answer> {rejoinder repartee reply response retort}
+<anticipate> {apprehend forecast hope foretaste}
+<anticipation> {antepast expectation foresight foreboding presentiment expectancy forethought prevision}
+<antipathy> {repugnance antagonism hostility repulsion distaste uncongeniality}
+<antique> {ancient antiquated old-fashioned quaint superannuated}
+<anxiety> {anguish disquiet disturbance fretting trouble concern worry}
+<apathy> {calmness indifference quietness stoicism composure insensibility quietude tranquillity immobility lethargy sluggishness unconcern impassibility phlegm stillness unfeelingness}
+<apiece> {distributively each individually separately severally}
+<apology> {acknowledgment excuse plea confession exculpation justification vindication}
+<apparent> {presumable probable seeming}
+<appear> {seem}
+<appendage> {addition appurtenance concomitant accompaniment adjunct extension addendum appendix supplement}
+<appetite> {appetency impulse lust propensity craving relish liking proclivity thirst disposition longing proneness zest}
+<apportion> {deal dispense share}
+<approximation> {neighborhood contiguity nearness propinquity}
+<arms> {accouterments armor harness mail weapons}
+<army> {armament forces military soldiers host multitude soldiery force legions phalanx troops}
+<arraign> {accuse charge impeach prosecute censure indict summon}
+<array> {collection parade arrangement show exhibition sight}
+<arrest> {detain capture hold secure seize}
+<artifice> {art craft finesse invention stratagem blind cunning machination subterfuge cheat device guile maneuver trick contrivance dodge imposture ruse wile}
+<artist> {artificer artisan mechanic operative workman}
+<ask> {beg crave entreat petition request solicit beseech demand implore require supplicate}
+<associate> {comrade fellow mate friend chum consort helpmate peer}
+<association> {club participation community conjunction connection fraternity society corporation}
+<assume> {arrogate postulate affect presume take feign pretend usurp}
+<assurance> {arrogance boldness self-confidence assertion confidence presumption self-reliance assumption self-assertion trust}
+<astute> {acute discerning penetrating sharp clear-sighted discriminating penetrative shrewd crafty keen perspicacious subtile knowing subtle}
+<attachment> {adherence regard adhesion tenderness affection estimation}
+<attack> {assail beset combat invade assault besiege encounter beleaguer aggression incursion invasion onslaught infringement onset trespass encroachment intrusion}
+<attain> {accomplish gain master achieve compass obtain acquire earn grasp procure}
+<attitude> {pose position posture}
+<attribute> {ascribe connect impute property quality}
+<augur> {betoken divine foretell predict prognosticate bode forebode portend presage prophesy}
+<authentic> {accepted certain original sure accredited current true genuine received trustworthy authorized legitimate veritable}
+<auxiliary> {mercenary subordinate}
+<avaricious> {greedy niggardly penurious sordid covetous miserly parsimonious rapacious stingy}
+<avenge> {punish retaliate vindicate visit}
+<avow> {own profess testify avouch protest witness}
+<awful> {alarming direful frightful majestic solemn appalling grand noble stately august dreadful horrible portentous terrible dire fearful imposing shocking terrific}
+<awkward> {boorish clumsy rough unhandy bungling gawky uncouth clownishmaladroit ungainly unskilful}
+<axiom> {truism}
+<babble> {blab cackle gabble murmur prattle blurt chat gossip palaver tattle chatter jabber prate twaddle}
+<banish> {ban dismiss evict expatriate ostracize exile expel oust dislodge eject}
+<bank> {beach bound brink edge margin shore border brim coast marge rim strand}
+<banter> {badinage derision jeering raillery sarcasm chaff irony mockery ridicule satire}
+<barbarous> {atrocious brutal merciless uncivilized barbarian cruel rude barbaric inhuman savage untamed}
+<barrier> {bar bulwark obstruction rampart barricade hindrance parapet restraint breastwork obstacle prohibition restriction}
+<battle> {affair conflict engagement skirmish bout contest fight strife}
+<beat> {bastinado chastise overcome spank thrash batter pommel strike vanquish belabor cudgel pound surpass whip bruise defeat scourge switch worst castigate flog smite}
+<beautiful> {exquisite handsome beauteous comely fair bewitching picturesque bonny elegant pretty}
+<because> {as for since}
+<becoming> {befitting congruous meet seemly beseeming decent decorous proper worthy}
+<beginning> {arising inauguration origin source commencement inception outset spring fount initiation start fountain opening}
+<behavior> {breeding conduct deportment life}
+<bend> {bias curve diverge mold submit twist bow deflect incline turn warp crook deviate stoop twine}
+<benevolence> {almsgiving charity kind-heartedness munificence beneficence generosity kindliness philanthropy benignity good-will kindness sympathy bounty humanity liberality unselfishness}
+<bind> {oblige restrict shackle engage fix tie fasten}
+<bitter> {acerb acidulous caustic pungent stinging acetous acrid cutting tart acid acrimonious harsh vinegarish acidulated biting irate sour virulent}
+<bleach> {blanch whiten whitewash}
+<blemish> {blot defacement spot blur defect brand deformity fault smirch stigma crack dent flaw soil taint daub disfigurement imperfection speck tarnish}
+<blow> {box concussion stripe buffet cuff knock rap stroke cut lash shock thump}
+<bluff> {abrupt brusk impolite blunt coarse inconsiderate blustering discourteous open uncivil bold frank plain-spoken unmannerly}
+<body> {ashes clay dust frame carcass corpse form remains trunk}
+<both> {twain two}
+<boundary> {confines limit line enclosure marches termination bourn frontier verge bourne landmark}
+<brave> {adventurous courageous fearless undaunted daring gallant undismayed chivalric dauntless heroic valiant chivalrous doughty intrepid venturesome}
+<break> {bankrupt rive shatter split burst crush fracture rupture shiver sunder cashier sever smash transgress}
+<brutish> {sensual swinish base brute imbruted sottish unintellectual beastly carnal insensible stolid unspiritual bestial lascivious vile}
+<burn> {blaze char flame incinerate flash kindle cauterize cremate ignite scorch singe}
+<business> {commerce handicraft trading job traffic avocation occupation barter profession vocation calling employment trade}
+<but> {and however that barely just only tho merely provided unless except moreover save further nevertheless}
+<by> {through with}
+<cabal> {combination crew gang conclave conspiracy faction junto}
+<calculate> {account consider enumerate rate cast count estimate reckon compute deem number}
+<call> {bawl roar shriek bellow ejaculate scream vociferate clamor exclaim shout yell}
+<calm> {collected imperturbable sedate composed peaceful self-possessed tranquil cool placid serene undisturbed dispassionate smooth unruffled}
+<cancel> {rescind efface erase quash expunge}
+<candid> {aboveboard truthful artless impartial simple unbiased ingenuous sincere unprejudiced straightforward unreserved guileless naive transparent unsophisticated}
+<caparison> {housings trappings}
+<capital> {metropolis}
+<care> {attention vigilance caution precaution wariness heed watchfulness circumspection management}
+<career> {flight passage race course rush}
+<caress> {coddle embrace fondle pamper flatter kiss pet}
+<caricature> {burlesque extravaganza mimicry take-off exaggeration imitation parody travesty}
+<carry> {move sustain transmit bring lift transport}
+<catastrophe> {denouement mischance cataclysm sequel}
+<catch> {comprehend overtake snatch grip clasp ensnare gripe clutch entrap}
+<cause> {causality designer occasion causation former antecedent condition originator author creator motive}
+<cease> {abstain desist intermit refrain conclude finish pause}
+<celebrate> {commemorate observe solemnize}
+<center> {middle midst}
+<chagrin> {discomposure humiliation disappointment mortification}
+<change> {alter exchange shift transmute commute metamorphose substitute modify transfigure vary diversify qualify transform veer alteration mutation renewing transmutation conversion novelty variation diversity regeneration transformation variety innovation renewal transition vicissitude}
+<character> {constitution personality reputation nature spirit temperament}
+<characteristic> {feature peculiarity indication singularity trait distinction}
+<charming> {enrapturing fascinating captivating enchanting entrancing}
+<chasten> {afflict discipline refine subdue try}
+<cherish> {cheer harbor nurse nurture treasure comfort foster nourish protect value}
+<choose> {cull elect prefer}
+<circumlocution> {diffuseness prolixity surplusage verbiage periphrasis redundance tautology verbosity pleonasm redundancy tediousness wordiness}
+<circumstance> {fact item occurrence detail particular situation}
+<class> {circle clique grade rank caste clan coterie set}
+<cleanse> {brush scour sponge wash clean lave rinse scrub sweep wipe disinfect mop}
+<clear> {intelligible pellucid diaphanous limpid perspicuous unadorned distinct lucid plain unambiguous manifest explicit obvious translucent unmistakable}
+<clever> {adroit dexterous ingenious apt expert intellectual smart bright gifted intelligent quick-witted talented}
+<collision> {clash contact impact clashing meeting}
+<comfortable> {cheery genial snug commodious well-off contented well-provided cheerful convenient satisfied well-to-do}
+<commit> {confide consign entrust relegate}
+<company> {assemblage concourse convocation assembly conference crowd congregation gathering convention group}
+<compel> {coerce constrainforce necessitate}
+<complain> {croak growl grunt remonstrate grumble repine}
+<complex> {abstruse confused intricate mixed complicated conglomerate involved multiform composite entangled manifold compound mingled tangled}
+<condemn> {blame convict doom denounce reprobate sentence}
+<confess> {acknowledge disclose certify endorse recognize}
+<confirm> {assure substantiate corroborate prove settle establish ratify strengthen}
+<conquer> {subject checkmate subjugate surmount overmaster discomfit overmatch rout down overpower}
+<conscious> {advised assured cognizant sensible apprised aware certified informed}
+<consequence> {consequent issue outgrowth outcome result upshot}
+<console>
+<continual> {ceaseless incessant regular uninterrupted constant invariable unbroken unremitting continuous perpetual unceasing unvarying}
+<contract> {agreement cartel pledge obligation promise bargain covenant pact stipulation}
+<contrast> {compare differentiate oppose}
+<conversation> {communion converse intercourse colloquy confabulation dialogue parley communication discourse talk}
+<convert> {neophyte proselyte}
+<convey> {sell transfer}
+<convoke> {assemble convene muster}
+<criminal> {abominable flagitious immoral sinful culpable guilty iniquitous unlawful wicked felonious illegal nefarious vicious}
+<daily> {diurnal}
+<danger> {insecurity jeopardy peril risk}
+<dark> {black dusky sable somber dim gloomy shadowy swart dismal murky opaque shady swarthy}
+<decay> {corrupt decompose molder putrefy rot spoil}
+<deception> {dissimulation lie double-dealing lying deceit duplicity prevarication deceitfulness fabrication trickery falsehood imposition untruth}
+<defense> {guard resistance shield fortress protection safeguard}
+<defile> {befoul pollute sully contaminate infect vitiate}
+<definition> {comment description exposition rendering commentary explanation interpretation translation}
+<delegate> {deputy legate proxy representative}
+<deliberate> {confer consult meditate reflect debate ponder weigh}
+<delicious> {dainty luscious savory}
+<delightful> {acceptable refreshing grateful satisfying congenial gratifying pleasurable welcome}
+<delusion> {error fallacy hallucination illusion phantasm}
+<demolish> {overturn raze}
+<demonstration> {certainty evidence inference conclusion deduction proof}
+<design> {plan project scheme}
+<desire> {concupiscence hankering coveting wish}
+<despair> {desperation despondency discouragement hopelessness}
+<dexterity> {aptitude expertness skill}
+<diction> {phrase vocabulary phraseology wording}
+<die> {expire perish decease depart fade wither}
+<difference> {contrariety discrimination inequality disparity divergence unlikeness disagreement dissimilarity discrepancy dissimilitude inconsistency}
+<difficult> {arduous hard onerous toilsome exhausting laborious trying}
+<direction>
+<discern> {behold descry see}
+<discover> {ascertain detect expose find invent}
+<disease> {disorder indisposition sickness ailment distemper infirmity unhealthiness complaint illness malady unsoundness}
+<disparage> {belittle depreciate underestimate underrate decry undervalue}
+<displace> {derange disturb mislay disarrange jumble misplace unsettle}
+<do> {perform perpetrate actualize realize complete consummate fulfil}
+<docile> {amenable manageable pliant teachable compliant obedient submissive tractable pliable tame yielding}
+<doctrine> {belief precept teaching dogma principle tenet}
+<dogmatic> {doctrinal magisterial opinionated self-opinionated systematic}
+<doubt> {distrust mistrust surmise suspect disbelief incredulity suspense indecision question suspicion hesitancy irresolution scruple unbelief hesitation skepticism uncertainty}
+<draw> {drag haul induce tow lead pull tug}
+<dream> {day-dream fantasy reverie trance romance vision}
+<dress> {apparel clothes garb clothing garments raiment vestments attire costume habiliments robes vesture}
+<drive> {propel repel resist thrust impel push repulse ride}
+<duplicate> {copy facsimile reproduction counterpart replica transcript}
+<duty> {accountability function office responsibility righteousness}
+<eager> {desirous glowing importunate anxious earnest hot intense vehement ardent enthusiastic impatient yearning burning fervent impetuous zealous}
+<ease> {easiness facility knack}
+<education> {learning study information instruction reading training development schooling tuition}
+<effrontery> {hardihood insolence audacity brass shamelessness}
+<egotism> {conceit self-esteem egoism self-conceit self-consciousness vanity}
+<emblem> {figure image symbol token type}
+<emigrate> {immigrate migrate}
+<employ> {hire use}
+<end> {expiration extent period extremity cessation finale finis completion fulfilment terminus utmost uttermost}
+<endeavor> {attempt essay strive undertake effort struggle trial}
+<endure> {brook afford undergo}
+<enemy> {adversary antagonist competitor foe opponent rival}
+<enmity> {malevolence rancor malice spite}
+<entertain> {amuse disport enliven interest please beguile delight gratify occupy recreate}
+<entertainment> {amusement diversion fun pleasure enjoyment merriment recreation frolic pastime sport}
+<enthusiasm> {ardor excitement frenzy extravagance inspiration vehemence eagerness intensity warmth earnestness fervency zeal ecstasy fervor rapture}
+<entrance> {access gate introduction accession door gateway adit doorway ingress penetration admission entrée inlet portal admittance entry}
+<envious> {jealous suspicious}
+<equivocal> {ambiguous enigmatical indistinct questionable doubtful indefinite dubious indeterminate perplexing uncertain enigmatic}
+<esteem> {appreciate prize think favor}
+<eternal> {deathless fadeless never-failing undying endless immortal perennial unending eonian imperishable unfading everlasting interminable timeless unfailing ever-living never-ending}
+<event> {case fortune episode}
+<every> {all any either}
+<evident> {glaring overt tangible indubitable palpable conspicuous patent discernible perceptible visible}
+<example> {archetype prototype ensample exemplar pattern specimen exemplification standard warning}
+<excess> {dissipation lavishness surplus exorbitance overplus waste prodigality superabundance wastefulness intemperance profusion superfluity}
+<execute> {administer enforce}
+<exercise> {application drill practise activity}
+<expense> {expenditure outgo outlay}
+<extemporaneous> {extemporary impromptu offhand extempore improvised unpremeditated}
+<exterminate> {uproot}
+<faint> {fatigued irresolute weak exhausted feeble languid wearied faded half-hearted worn faint-hearted ill-defined purposeless faltering timid}
+<faith> {credit opinion conviction creed reliance credence}
+<faithful> {incorruptible stanch trusty firm loyal unwavering}
+<fame> {celebrity eminence notoriety glory laurels renown repute}
+<fanaticism> {bigotry credulity intolerance superstition}
+<fanciful> {fantastic grotesque imaginative visionary}
+<fancy> {imagination predilection caprice humor supposition vagary conception mood whim}
+<farewell> {adieu good-by valedictory congé leave-taking valediction}
+<fear> {trembling tremor trepidation}
+<feminine> {effeminate female womanish womanly}
+<fetter> {bondage custody gyves irons bonds durance handcuffs manacles chains duress imprisonment shackles}
+<feud> {affray brawl dissension broil controversy quarrel contention dispute fray}
+<fiction> {myth apologue legend novel figment}
+<fierce> {ferocious furious raging uncultivated violent fiery untrained}
+<financial> {fiscal monetary pecuniary}
+<fine> {excellent polished small clarified gauzy refined splendid comminuted sensitive delicate slender tenuous nice slight thin}
+<fire> {combustion conflagration}
+<flock> {bevy covey herd lot brood drove hatch litter pack swarm}
+<fluctuate> {hesitate swerve vacillate oscillate undulate waver}
+<fluid> {gas liquid}
+<follow> {accompany obey pursue attend chase ensue imitate}
+<food> {aliment feed nourishment pabulum sustenance diet fodder nutriment provender viands fare forage nutrition regimen victuals}
+<formidable> {dangerous redoubted tremendous}
+<fortification> {castle citadel fastness fort stronghold}
+<fortitude> {courage endurance heroism resolution}
+<fortunate> {favored lucky prospered prosperous successful}
+<fraud> {swindle treason swindling cheating dishonesty treachery}
+<friendly> {accessible companionable neighborly affable complaisant hearty sociable affectionate cordial social amicable favorable kindly tender brotherly fond well-disposed}
+<friendship> {comity amity consideration friendliness}
+<frighten> {appal cow scare browbeat intimidate terrify}
+<frugality> {economy parsimony saving sparing miserliness providence scrimping thrift parsimoniousness}
+<garrulous> {chattering loquacious talkative verbose}
+<gender> {sex}
+<general> {common familiar ordinary universal commonplace frequent popular customary habitual prevalent everyday public}
+<generous> {bountiful liberal free-handed magnanimous open-handed disinterested free-hearted munificent open-hearted}
+<genius> {talent talents}
+<get> {receive}
+<gift> {benefaction boon bribe largess bequest donation gratuity present}
+<give> {bestow deliver furnish impart supply}
+<govern> {command curb rule control direct manage reign sway}
+<graceful>
+<grief> {affliction melancholy regret sorrow distress mourning sadness tribulation wo}
+<habit> {custom habitude routine usage wont}
+<happen> {bechance supervene befall occur betide fall}
+<happiness> {blessedness gladness bliss gratification joy rejoicing felicity satisfaction contentment gaiety mirth triumph}
+<happy> {blessed cheering rejoiced blissful glad merry blithe delighted jocund mirthful smiling blithesome jolly pleased joyful buoyant felicitous rapturous sunny}
+<harmony> {concurrence consistency uniformity accordance conformity consonance congruity symmetry unison unanimity unity concord}
+<harvest> {crop harvest-home ingathering fruit harvesting proceeds return growth harvest-tide harvest-feast harvest-time product harvestfestival reaping}
+<hatred> {grudge}
+<have> {possess}
+<hazard> {venture}
+<healthy> {hale hygienic sanitary healthful salubrious well salutary strong wholesome}
+<help> {befriend succor cooperate second}
+<heretic> {dissenter heresiarch non-conformist schismatic}
+<heterogeneous> {unhomogeneous miscellaneous discordant variant dissimilar non-homogeneous various}
+<hide> {bury cover entomb overwhelm cloak disguise inter screen veil conceal dissemble mask secrete}
+<high> {elevated exalted towering eminent lofty proud tall uplifted}
+<hinder> {baffle clog foil retard balk counteract frustrate delay hamper block impede thwart check encumber interrupt}
+<history> {biography muniment annals chronicle narration register archives memoir narrative autobiography memorial recital}
+<holy> {hallowed saintly consecrated sacred}
+<home> {abode dwelling habitation hearthstone ingleside domicil fireside hearth house residence}
+<honest> {equitable good honorable upright}
+<horizontal> {even flat level plane}
+<humane> {benevolent compassionate human pitying forgiving sympathetic charitable kind-hearted clement gracious merciful tender-hearted}
+<hunt> {hunting inquisition pursuit search}
+<hypocrisy> {affectation formalism sanctimony cant pharisaism sanctimoniousness sham pietism}
+<hypocrite> {deceiver dissembler impostor pretender}
+<hypothesis> {conjecture guess speculation theory}
+<idea> {impression judgment sentiment notion concept thought}
+<ideal>
+<idiocy> {fatuity foolishness incapacity folly imbecility senselessness}
+<idle> {inactive inert slothful trifling unoccupied indolent lazy sluggish unemployed}
+<ignorant> {ill-informed unenlightened unlearned untaught illiterate uninformed unlettered untutored uneducated uninstructed unskilled}
+<immediately> {instanter presently straightway directly instantly forthwith now}
+<immerse> {dip douse duck immerge plunge submerge}
+<imminent> {impending threatening}
+<impediment> {encumbrance difficulty}
+<impudence> {impertinence intrusiveness incivility officiousness rudeness forwardness sauciness}
+<incongruous> {ill-matched inharmonious inapposite irreconcilable mismatched incommensurable mismated incompatible repugnant discrepant inconsistent unsuitable}
+<induction>
+<industrious> {employed occupied assiduous engaged sedulous}
+<industry> {diligence labor persistence assiduity pains constancy intentness perseverance sedulousness}
+<infinite> {illimitable limitless unconditioned boundless immeasurable measureless unfathomable countless innumerable numberless unlimited unbounded unmeasured}
+<influence> {actuate stir dispose excite urge}
+<inherent> {congenital indispensable innate essential indwelling inseparable natural immanent infixed internal inborn ingrained intrinsic inbred inhering inwrought subjective}
+<injury> {disadvantage hurt loss impairment mischief detriment outrage}
+<injustice> {grievance unfairness unrighteousness}
+<innocent> {blameless guiltless inoffensive spotless harmless stainless immaculate faultless innocuous righteous innoxious sinless virtuous}
+<inquisitive> {curious peeping scrutinizing inquiring meddling prying searching}
+<insanity> {aberration delirium madness alienation dementia mania craziness derangement lunacy monomania}
+<interpose> {arbitrate intercept intermeddle meddle intercede interfere mediate}
+<involve> {complicate embroil implicate include entangle}
+<journey> {excursion pilgrimage transit trip expedition tour travel voyage}
+<judge> {arbiter arbitrator referee umpire}
+<justice> {equity impartiality legality rightfulness fairness integrity rectitude truth justness uprightness lawfulness}
+<keep> {defend preserve retain withhold}
+<kill> {assassinate despatch slay butcher murder slaughter}
+<kin> {blood descent consanguinity family relationship birth}
+<knowledge> {erudition recognition scholarship cognition lore cognizance intelligence perception comprehension intuition}
+<language> {barbarism patois vernacular dialect idiom tongue}
+<large> {abundant gigantic long ample colossal massive big great spacious broad considerable huge vast bulky enormous immense wide capacious extensive}
+<law> {canon legislation code edict mandate regulation enactment commandment formula ordinance statute decree jurisprudence}
+<liberty> {emancipation freedom independence license}
+<light> {gleam glow shimmer gleaming illumination shine flare glimmer incandescence shining glistening luster sparkle flicker glistering scintillation twinkle glare glitter sheen twinkling}
+<likely> {conceivable liable credible conjectural reasonable}
+<listen> {hark harken hear list}
+<literature> {belles-lettres publications books writings}
+<load> {burden incubus cargo freight lading weight}
+<lock> {fastening hook bolt hasp latch}
+<look> {inspect view contemplate gaze stare glance scan survey}
+<love> {attraction fondness}
+<make> {become constrain fabricate manufacture construct create render shape constitute}
+<marriage> {espousals nuptials spousals wedding espousal matrimony spousal wedlock eeks}
+<masculine> {male manful manlike manly mannish virile}
+<massacre> {butchery carnage havoc}
+<meddlesome> {intrusive obtrusive}
+<melody> {music symphony}
+<memory> {recollection remembrance reminiscence retrospect retrospection}
+<mercy> {mildness forbearance lenience blessing forgiveness leniency clemency gentleness lenity compassion grace}
+<meter> {euphony measure rhythm verse}
+<mind> {brain instinct consciousness intellect sense soul understanding}
+<minute> {circumstantial diminutive little exact critical precise tiny detailed}
+<misfortune> {adversity bereavement failure hardship misery chastening chastisement ill visitation}
+<mob> {canaille masses rabble populace}
+<model> {representation}
+<modesty> {backwardness constraint reserve bashfulness coyness shyness unobtrusiveness coldness diffidence}
+<money> {bills cash funds bullion coin gold silver currency notes specie}
+<morose> {dogged ill-natured splenetic churlish sulky crabbed gruff snappish sullen crusty ill-humored surly}
+<motion> {process}
+<mourn> {bemoan deplore lament rue bewail grieve}
+<mutual> {correlative interchangeable joint reciprocal}
+<mysterious> {inexplicable recondite cabalistic inscrutable secret mystic mystical hidden unfathomed incomprehensible occult unknown}
+<name> {agnomen denomination prenomen surname appellation designation title cognomen epithet}
+<native> {indigenous natal}
+<nautical> {marine maritime naval ocean oceanic}
+<neat> {dapper prim tidy cleanly natty orderly spruce trim}
+<necessary> {infallible required unavoidable needed requisite undeniable inevitable needful}
+<necessity> {compulsion fatality destiny fate emergency indispensability unavoidableness indispensableness urgency exigency need want requirement}
+<neglect> {carelessness heedlessness negligence default inadvertence omission slackness disregard inattention disrespect neglectfulness remissness thoughtlessness}
+<new> {fresh modern new-made upstart juvenile new-fangled young late new-fashioned recent}
+<nimble> {speedy swift}
+<normal> {typical}
+<notwithstanding> {howbeit despite}
+<oath> {adjuration affidavit cursing profanity anathema denunciation reprobation swearing blaspheming imprecation blasphemy malediction vow}
+<obscure> {darksome deep muddy cloudy dense profound turbid unintelligible}
+<obsolete> {archaic obsolescent disused}
+<obstinate> {contumacious headstrong mulish resolute decided heady obdurate resolved determined immovable stubborn indomitable persistent unconquerable inflexible pertinacious unflinching fixed intractable refractory unyielding}
+<obstruct> {choke}
+<old> {aged decrepit immemorial senile elderly olden time-honored gray patriarchal time-worn hoary venerable}
+<operation> {agency procedure}
+<order> {injunction}
+<ostentation> {boast flourish pompousness vaunt boasting pageant pomp display pageantry pomposity vaunting}
+<ought> {should}
+<oversight> {surveillance superintendence inspection supervision}
+<pain> {ache suffering torture agony pang throe twinge paroxysm torment}
+<palliate> {extenuate}
+<pardon> {condone overlook remit absolution amnesty oblivion acquittal remission}
+<part> {atom fraction member section component fragment segment constituent ingredient piece division instalment subdivision element}
+<particle> {grain mite scrap corpuscle iota molecule shred whit jot scintilla tittle}
+<patience> {long-suffering resignation submission sufferance}
+<pay> {allowance recompense salary compensation honorarium remuneration stipend earnings payment requital wages fee}
+<people> {commonwealth nation population tribe}
+<perceive> {conceive understand}
+<perfect> {accurate entire unblemished undefiled completed finished}
+<permanent> {abiding enduring lasting steadfast changeless unchangeable immutable unchanging durable stable}
+<permission> {authorization authority}
+<pernicious> {bad mischievous pestilential baneful foul noisome poisonous deadly harmful noxious ruinous deleterious hurtful perverting unhealthful destructive injurious detrimental insalubrious pestiferous unwholesome}
+<perplexity> {distraction embarrassment}
+<persuade> {convince}
+<pertness> {liveliness briskness flippancy smartness sprightliness}
+<perverse> {froward petulant untoward factious wayward fractious ungovernable wilful}
+<physical> {bodily corporeal corporal material}
+<pique> {umbrage}
+<pitiful> {abject lamentable paltry sorrowful miserable pathetic touching contemptible mournful piteous woful despicable moving pitiable wretched}
+<pity> {commiseration condolence}
+<plant> {seed sow}
+<plead> {argue press}
+<pleasant> {obliging}
+<plentiful> {abounding plenteous profuse copious lavish replete affluent enough rich exuberant luxuriant bounteous full overflowing teeming}
+<poetry> {numbers poesy song poem rime}
+<polite> {accomplished courtly genteel urbane civil cultivated well-behaved cultured well-bred courteous well-mannered}
+<polity> {policy}
+<portion> {parcel}
+<poverty> {beggary mendicancy pauperism privation destitution indigence penury}
+<power> {ability competency faculty capability efficacy strength capacity efficiency might susceptibility energy qualification cogency}
+<praise> {acclaim approbation compliment laudation acclamation approval encomium panegyric adulation eulogy plaudit applause cheers flattery sycophancy}
+<pray> {bid invoke conjure importune}
+<precarious> {hazardous risky unsettled insecure unassured unstable perilous unsteady}
+<precedent> {instance warrant}
+<predestination> {foreknowledge foreordination}
+<prejudice> {preconception partiality prepossession}
+<pretense> {pretext simulation color pretension}
+<prevent> {forestall obviate preclude}
+<previous> {foregoing front preceding anterior introductory preliminary earlier forward prior}
+<price> {worth}
+<pride> {self-exaltation self-respect superciliousness disdain self-complacency vainglory haughtiness}
+<primeval> {aboriginal primitive primal primordial autochthonic primary pristine prime uncreated}
+<profit> {advantage expediency service avail receipts usefulness benefit emolument improvement returns}
+<progress> {proficiency advancement progression attainment}
+<prohibit> {debar forbid inhibit disallow interdict}
+<promote> {raise exalt elevate foment}
+<propitiation> {atonement expiation reconciliation}
+<propitious> {auspicious benign}
+<proposal> {overture proposition}
+<propose>
+<protract> {elongate lengthen procrastinate defer postpone prolong}
+<proverb> {adage maxim saw aphorism byword motto saying apothegm dictum}
+<prowess> {bravery gallantry intrepidity valor}
+<prudence> {carefulness judiciousness}
+<purchase> {buy}
+<pure> {unmixed chaste unpolluted classic unspotted classical incorrupt unstained unadulterated unsullied mere untainted continent uncorrupted untarnished sheer unmingled}
+<put> {deposit lay place}
+<queer> {erratic odd bizarre extraordinary peculiar uncommon comical unique crotchety funny unmatched unusual droll laughable singular whimsical eccentric}
+<quicken> {accelerate hasten expedite hurry speed facilitate}
+<quote> {extract plagiarize repeat excerpt paraphrase recite}
+<racy> {flavorous spicy forcible piquant spirited}
+<radical> {constitutional thorough extreme organic thoroughgoing fundamental total}
+<rare> {scarce unparalleled incomparable precious unprecedented infrequent remarkable}
+<reach> {arrive enter land}
+<real> {actual demonstrable developed unquestionable substantial}
+<reason> {discuss contend controvert demonstrate wrangle ground argument}
+<reasoning> {argumentation ratiocination}
+<rebellious> {mutinous uncontrollable disobedient insubordinate seditious unmanageable}
+<record> {enrolment archive inventory roll catalogue enumeration memorandum schedule scroll document inscription}
+<recover> {heal recuperate restore reanimate regain resume cure recruit repossess retrieve}
+<refinement> {civilization elegance}
+<refute> {confute disprove}
+<reliable>
+<religion> {godliness morality piety theology holiness worship}
+<reluctant> {averse disinclined loath backward indisposed unwilling}
+<remark> {annotation note observation utterance}
+<rend> {cleave mangle lacerate rip slit tear}
+<renounce> {disavow disown discard refuse deny disclaim recall reject}
+<repentance> {compunction contriteness self-condemnation contrition penitence remorse}
+<report> {rehearsal rumor statement tale}
+<reproof> {admonition chiding disapproval reprimand animadversion objurgation condemnation rebuke reproval criticism reflection reprehension upbraiding}
+<reprove> {admonish upbraid warn chide reprehend}
+<requite> {remunerate compensate repay reward reciprocate}
+<rest> {slumber peace peacefulness quiescence repose intermission sleep}
+<restive> {balky fidgety recalcitrant skittish fretful resentful unruly frisky restiff}
+<restrain> {abridge bridle repress circumscribe confine}
+<retirement> {loneliness privacy seclusion solitude}
+<revelation> {apocalypse disclosure manifestation}
+<revenge> {avenging retaliation retribution vengeance}
+<revolution> {anarchy insurrection revolt lawlessness riot disintegration mutiny sedition insubordination rebellion tumult}
+<revolve> {rotate}
+<riddle> {conundrum enigma paradox problem puzzle}
+<right> {franchise prerogative exemption immunity privilege}
+<rise> {arise ascend emanate flow proceed}
+<robber> {bandit depredator freebooter pirate brigand despoiler highwayman plunderer buccaneer footpad marauder raider burglar forager pillager thief}
+<royal> {kingly princely kinglike magnificent regal}
+<rustic> {agricultural pastoral countrified unpolished country hoidenish rural bucolic inelegant sylvan verdant clownish outlandish}
+<sacrament> {ceremony eucharist observance rite solemnity}
+<sagacious> {keen-sighted quick-scented sharp-witted keen-witted rational judicious sage wise}
+<sale>
+<sample>
+<satisfy> {cloy fill sate suffice content glut satiate surfeit}
+<scholar> {learner pupil savant student}
+<science>
+<security> {bail gage surety}
+<self-abnegation> {self-devotion self-renunciation self-immolation self-sacrifice}
+<send> {emit dart fling lance sling launch throw depute hurl}
+<sensation> {emotion feeling}
+<sensibility> {impressibility sensitiveness}
+<severe> {austere rigorous uncompromising stern unmitigated relentless stiff unrelenting inexorable rigid strict}
+<shake> {agitate jar quake totter brandish joggle quaver shudder tremble flap jolt quiver vibrate jounce reel swing wave flutter rock thrill}
+<shelter> {ward}
+<sign> {prognostic symptom omen signal}
+<sin> {misdeed vice criminality guilt viciousness delinquency ill-doing transgression depravity immorality ungodliness wrong-doing}
+<sing> {carol chant chirp chirrup hum warble}
+<skeptic> {agnostic deist doubter atheist disbeliever freethinker infidel unbeliever}
+<sketch> {brief draft drawing picture skeleton}
+<skilful> {proficient adept skilled deft handy practised trained}
+<slander> {asperse backbite libel traduce calumniate}
+<slang> {colloquialism vulgarism vulgarity}
+<slow> {dawdling dilatory gradual lingering slack delaying drowsy dull procrastinating tardy}
+<sneer> {gibe jeer mock scoff taunt}
+<socialism> {collectivism communism fabianism}
+<sound> {noise tone}
+<speak> {articulate declaim express pronounce utter}
+<speech> {dissertation oration speaking harangue oratory disquisition sermon}
+<spontaneous> {automatic impulsive involuntary voluntary instinctive unbidden willing}
+<spy> {detective emissary scout}
+<stain> {discolor tinge dye tint}
+<state> {predicate depose specify swear inform}
+<steep> {precipitous}
+<storm> {agitation tempest}
+<story> {anecdote}
+<stupidity> {slowness stupefaction dulness obtuseness}
+<stupor> {fainting syncope asphyxia swoon torpor coma swooning unconsciousness}
+<subsidy> {indemnity pension subvention tribute bonus premium}
+<subvert> {extinguish supersede}
+<succeed> {prevail prosper thrive}
+<suggestion> {implication innuendo insinuation intimation}
+<supernatural> {miraculous preternatural superhuman}
+<support> {prop}
+<suppose> {imagine}
+<surrender> {alienate sacrifice capitulate}
+<synonymous> {correspondent corresponding synonymic}
+<system> {method mode regularity}
+<taciturn> {mute reticent speechless dumb reserved silent uncommunicative}
+<tasteful> {artistic esthetic fastidious esthetical tasty}
+<teach> {initiate school educate inculcate instill train enlighten indoctrinate instruct tutor}
+<temerity> {foolhardiness over-confidence rashness precipitancy recklessness hastiness precipitation venturesomeness}
+<term> {article word}
+<terse> {concise short condensed pithy compendious laconic sententious succinct}
+<testimony> {attestation deposition affirmation certification}
+<therefore> {accordingly consequently then whence hence thence wherefore}
+<throng> {jam mass}
+<time> {age duration epoch sequence date eon era season succession while}
+<tip> {slope careen lean slant tilt}
+<tire> {fatigue harass jade weary fag}
+<tool> {apparatus implement machine utensil appliance mechanism weapon}
+<topic> {head matter theme}
+<trace> {footmark trail footprint remnant track vestige footstep}
+<transact> {negotiate treat}
+<transaction>
+<transcendental> {intuitive transcendent}
+<transient> {fleeting fugitive ephemeral flitting momentary temporary evanescent flying passing transitory}
+<union> {juncture unification junction oneness}
+<usual> {prevailing wonted}
+<utility> {serviceableness}
+<vacant> {blank leisure unfilled untenanted void empty vacuous}
+<vain> {abortive futile unsatisfying baseless unserviceable bootless inconstant trivial unsubstantial deceitful ineffectual unavailing useless delusive nugatory unimportant vapid null unprofitable fruitless profitless unreal worthless}
+<venal> {hireling purchasable salable}
+<venerate> {reverence}
+<veneration> {adoration}
+<venial> {excusable pardonable}
+<veracity> {candor honesty reality truthfulness frankness ingenuousness verity}
+<verbal> {literal oral vocal}
+<victory> {conquest success mastery supremacy}
+<vigilant> {cautious wary awake circumspect sleepless careful wakeful}
+<virtue> {chastity probity purity excellence virtuousness goodness rightness worthiness}
+<wander> {range rove digress err ramble roam stray}
+<way> {alley lane path route avenue driveway pass pathway street bridle-path highroad road thoroughfare channel highway passageway roadway}
+<wisdom> {depth discernment reasonableness enlightenment prescience profundity}
+<wit> {joke waggery playfulness waggishness drollery jest pleasantry witticism facetiousness jocularity}
+<work> {drudgery production toil}
+<yet> {hitherto}
